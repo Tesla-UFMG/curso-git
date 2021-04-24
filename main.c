@@ -10,6 +10,8 @@ int main() {
 
     int mult(int a, int b);
 
+    printf("Ola mundo!\n");
+
     return 0;
 }
 
