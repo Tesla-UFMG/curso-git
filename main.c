@@ -5,7 +5,7 @@ int soma(int a, int b) {
 }
 
 float div(float a, float b) {
-    
+  return a/b;  
 }
 
 int main() {
