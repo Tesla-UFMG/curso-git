@@ -4,6 +4,10 @@ int soma(int a, int b) {
     return a+b;
 }
 
+float div(float a, float b) {
+    
+}
+
 int main() {
 
     printf("Hello world!\n");
