@@ -13,6 +13,6 @@ int main() {
     return 0;
 }
 
-int mult(int a, int b) {
-    return a*b;
+int mult(int e, int f) {
+    return e*f;
 }
